@@ -1,4 +1,4 @@
-# Day-1 | Prowler
+# Day-1 | Prowler 
 
 Prowler is an open-source security tool designed for cloud environments, specifically for assessing the security posture of AWS (Amazon Web Services), Azure, and GCP (Google Cloud Platform) environments. Prowler is often used in DevOps processes to ensure that cloud resources are configured securely and to identify potential vulnerabilities.
 
